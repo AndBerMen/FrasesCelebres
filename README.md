@@ -13,3 +13,13 @@
 "La mayoría del software actual es muy parecido a una pirámide egipcia, con millones de ladrillos puestos unos encima de otros sin una estructura integral, simplemente realizada a base de fuerza bruta y miles de esclavos" **Alan Kay** Programador
 
 "Pienso que hay mercado en el mundo como para unos cinco ordenadores" **Thomas J. Watson** Presidente de la Junta Directiva de IBM, sobre 1948
+
+"La tecnología es mejor cuando reúne a la gente" **Matt Mullenweg**
+
+"Uno de los peores defectos que tienen los que desarrollan software es la inconstancia: acumular tareas lo que trae agobio, las horas extras y aquí comienza a resentirse la calidad del trabajo" **Rafael Gómez**
+
+"La verdad solo se puede encontrar en un lugar: el código" **Robert C. Martin**
+
+"La tecnología es siempre un arma de doble filo. Traerá muchos beneficios, pero también muchos desastres" **Alan Moore**
+
+"La tecnología, como el arte, es un ejercicio altísimo de la imaginación humana" **Daniel Bell**
